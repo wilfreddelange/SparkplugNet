@@ -315,6 +315,7 @@ public class Program
             "scada1",
             TimeSpan.FromSeconds(30),
             SparkplugMqttProtocolVersion.V311,
+            MetricScreenMethod.Filter,
             null,
             null,
             null,
